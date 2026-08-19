@@ -3,9 +3,12 @@
 ### 专业课：
 * 大一下：7960128
 * 大二上：7958729
-* 宏观经济学(2025):[宏观第一次和第二次期中2025.pdf](https://github.com/user-attachments/files/30289438/2025.pdf)
-* 管理科学&计量经济学(2026):[2025管科 计量 期中.pdf](https://github.com/user-attachments/files/30289450/2025.pdf)
-* 策略与博弈（2026）：[2025策略与博弈 期中.pdf](https://github.com/user-attachments/files/30289457/2025.pdf)
+* 证券投资学 (2026)期末：8351316
+* 计量经济学(2026) 期末：8347645
+* 货币经济学(2026) 期末: 8323730
+* 宏观经济学(2025) 期中:[宏观第一次和第二次期中2025.pdf](https://github.com/user-attachments/files/30289438/2025.pdf)
+* 管理科学&计量经济学(2026) 期中:[2025管科 计量 期中.pdf](https://github.com/user-attachments/files/30289450/2025.pdf)
+* 策略与博弈（2026） 期中：[2025策略与博弈 期中.pdf](https://github.com/user-attachments/files/30289457/2025.pdf)
 
 
 ### 其他
