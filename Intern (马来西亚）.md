@@ -55,7 +55,3 @@
 8. If your teammate having different opinion,what will you do?
 
 也可以准备一些实时新闻
-
-### 企业文化
-
-【欢迎到左上角Discussion处提供资料，感谢你的分享（可匿名）】
