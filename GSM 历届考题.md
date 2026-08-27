@@ -1,3 +1,4 @@
+### 请勿随意转载，转售于他人，谢谢！
 ### 高数：https://github.com/zhuozhiyongde/Advanced-Mathematics-B-2022-PKU
 
 ## GSM历届考题（树洞查询）
